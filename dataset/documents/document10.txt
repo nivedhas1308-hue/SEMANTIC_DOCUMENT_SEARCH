@@ -1,0 +1,3 @@
+Internet of Things
+
+The Internet of Things (IoT) connects physical devices to the internet. Smart watches, smart TVs, and home automation systems use IoT to collect and exchange data.

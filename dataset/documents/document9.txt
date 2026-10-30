@@ -1,0 +1,3 @@
+Data Science
+
+Data Science is the process of collecting, analyzing, and interpreting data. It uses statistics, programming, and machine learning to discover useful information and support decision-making.

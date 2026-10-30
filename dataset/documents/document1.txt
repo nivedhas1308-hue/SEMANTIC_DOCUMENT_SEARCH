@@ -1,0 +1,6 @@
+Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that enables computers
+to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, banking, robotics,
+and many other fields.

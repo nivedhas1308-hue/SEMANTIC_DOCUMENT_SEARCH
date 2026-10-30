@@ -1,0 +1,376 @@
+query,document,content,keyword_score
+How can computers perform tasks like humans?,Unknown,"Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that enables computers
+to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, banking, robotics,
+and many other fields.",
+How can computers perform tasks like humans?,Unknown,"Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand and process human languages. It is used in chatbots, language translation, voice assistants, and text analysis.",
+How can computers perform tasks like humans?,Unknown,"Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence.
+It allows computers to learn from data and improve their
+performance without being explicitly programmed.
+It is used in prediction, recommendation systems,
+and image recognition.",
+How can computers perform tasks like humans?,Unknown,"Internet of Things
+
+The Internet of Things (IoT) connects physical devices to the internet. Smart watches, smart TVs, and home automation systems use IoT to collect and exchange data.",
+How can computers perform tasks like humans?,Unknown,"Database Management System
+
+A Database Management System (DBMS) is software used to store, organize, manage, and retrieve data. Oracle, MySQL, and PostgreSQL are examples of database management systems.",
+How can computers recognize pictures?,Unknown,"Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence.
+It allows computers to learn from data and improve their
+performance without being explicitly programmed.
+It is used in prediction, recommendation systems,
+and image recognition.",
+How can computers recognize pictures?,Unknown,"Deep Learning
+
+Deep Learning is a subset of Machine Learning that uses artificial neural networks. It helps computers recognize images, understand speech, process language, and solve complex problems.",
+How can computers recognize pictures?,Unknown,"Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that enables computers
+to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, banking, robotics,
+and many other fields.",
+How can computers recognize pictures?,Unknown,"Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand and process human languages. It is used in chatbots, language translation, voice assistants, and text analysis.",
+How can computers recognize pictures?,Unknown,"Database Management System
+
+A Database Management System (DBMS) is software used to store, organize, manage, and retrieve data. Oracle, MySQL, and PostgreSQL are examples of database management systems.",
+How can data help in making decisions?,Unknown,"Data Science
+
+Data Science is the process of collecting, analyzing, and interpreting data. It uses statistics, programming, and machine learning to discover useful information and support decision-making.",
+How can data help in making decisions?,Unknown,"Database Management System
+
+A Database Management System (DBMS) is software used to store, organize, manage, and retrieve data. Oracle, MySQL, and PostgreSQL are examples of database management systems.",
+How can data help in making decisions?,Unknown,"Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence.
+It allows computers to learn from data and improve their
+performance without being explicitly programmed.
+It is used in prediction, recommendation systems,
+and image recognition.",
+How can data help in making decisions?,Unknown,"Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that enables computers
+to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, banking, robotics,
+and many other fields.",
+How can data help in making decisions?,Unknown,"Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand and process human languages. It is used in chatbots, language translation, voice assistants, and text analysis.",
+How can files be stored using the internet?,Unknown,"Cloud Computing
+
+Cloud computing provides computing services such as storage, servers, databases, and software through the internet. It helps users access data and applications from anywhere.",
+How can files be stored using the internet?,Unknown,"Internet of Things
+
+The Internet of Things (IoT) connects physical devices to the internet. Smart watches, smart TVs, and home automation systems use IoT to collect and exchange data.",
+How can files be stored using the internet?,Unknown,"Database Management System
+
+A Database Management System (DBMS) is software used to store, organize, manage, and retrieve data. Oracle, MySQL, and PostgreSQL are examples of database management systems.",
+How can files be stored using the internet?,Unknown,"Data Science
+
+Data Science is the process of collecting, analyzing, and interpreting data. It uses statistics, programming, and machine learning to discover useful information and support decision-making.",
+How can files be stored using the internet?,Unknown,"Cyber Security
+
+Cyber security protects computers, networks, and data from digital attacks. It includes encryption, firewalls, antivirus software, and strong passwords to protect sensitive information.",
+How can we protect computers from hackers?,Unknown,"Cyber Security
+
+Cyber security protects computers, networks, and data from digital attacks. It includes encryption, firewalls, antivirus software, and strong passwords to protect sensitive information.",
+How can we protect computers from hackers?,Unknown,"Internet of Things
+
+The Internet of Things (IoT) connects physical devices to the internet. Smart watches, smart TVs, and home automation systems use IoT to collect and exchange data.",
+How can we protect computers from hackers?,Unknown,"Database Management System
+
+A Database Management System (DBMS) is software used to store, organize, manage, and retrieve data. Oracle, MySQL, and PostgreSQL are examples of database management systems.",
+How can we protect computers from hackers?,Unknown,"Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that enables computers
+to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, banking, robotics,
+and many other fields.",
+How can we protect computers from hackers?,Unknown,"Cloud Computing
+
+Cloud computing provides computing services such as storage, servers, databases, and software through the internet. It helps users access data and applications from anywhere.",
+How can we store and manage information?,Unknown,"Database Management System
+
+A Database Management System (DBMS) is software used to store, organize, manage, and retrieve data. Oracle, MySQL, and PostgreSQL are examples of database management systems.",
+How can we store and manage information?,Unknown,"Internet of Things
+
+The Internet of Things (IoT) connects physical devices to the internet. Smart watches, smart TVs, and home automation systems use IoT to collect and exchange data.",
+How can we store and manage information?,Unknown,"Data Science
+
+Data Science is the process of collecting, analyzing, and interpreting data. It uses statistics, programming, and machine learning to discover useful information and support decision-making.",
+How can we store and manage information?,Unknown,"Cloud Computing
+
+Cloud computing provides computing services such as storage, servers, databases, and software through the internet. It helps users access data and applications from anywhere.",
+How can we store and manage information?,Unknown,"Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that enables computers
+to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, banking, robotics,
+and many other fields.",
+How do computers understand human language?,Unknown,"Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand and process human languages. It is used in chatbots, language translation, voice assistants, and text analysis.",
+How do computers understand human language?,Unknown,"Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that enables computers
+to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, banking, robotics,
+and many other fields.",
+How do computers understand human language?,Unknown,"Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence.
+It allows computers to learn from data and improve their
+performance without being explicitly programmed.
+It is used in prediction, recommendation systems,
+and image recognition.",
+How do computers understand human language?,Unknown,"Deep Learning
+
+Deep Learning is a subset of Machine Learning that uses artificial neural networks. It helps computers recognize images, understand speech, process language, and solve complex problems.",
+How do computers understand human language?,Unknown,"Python Programming
+
+Python is a popular programming language known for its simple syntax. It is used in web development, data science, artificial intelligence, automation, and machine learning.",
+How do machines learn from information?,Unknown,"Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence.
+It allows computers to learn from data and improve their
+performance without being explicitly programmed.
+It is used in prediction, recommendation systems,
+and image recognition.",
+How do machines learn from information?,Unknown,"Deep Learning
+
+Deep Learning is a subset of Machine Learning that uses artificial neural networks. It helps computers recognize images, understand speech, process language, and solve complex problems.",
+How do machines learn from information?,Unknown,"Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that enables computers
+to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, banking, robotics,
+and many other fields.",
+How do machines learn from information?,Unknown,"Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand and process human languages. It is used in chatbots, language translation, voice assistants, and text analysis.",
+How do machines learn from information?,Unknown,"Data Science
+
+Data Science is the process of collecting, analyzing, and interpreting data. It uses statistics, programming, and machine learning to discover useful information and support decision-making.",
+How do neural networks help computers?,Unknown,"Deep Learning
+
+Deep Learning is a subset of Machine Learning that uses artificial neural networks. It helps computers recognize images, understand speech, process language, and solve complex problems.",
+How do neural networks help computers?,Unknown,"Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence.
+It allows computers to learn from data and improve their
+performance without being explicitly programmed.
+It is used in prediction, recommendation systems,
+and image recognition.",
+How do neural networks help computers?,Unknown,"Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that enables computers
+to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, banking, robotics,
+and many other fields.",
+How do neural networks help computers?,Unknown,"Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand and process human languages. It is used in chatbots, language translation, voice assistants, and text analysis.",
+How do neural networks help computers?,Unknown,"Cyber Security
+
+Cyber security protects computers, networks, and data from digital attacks. It includes encryption, firewalls, antivirus software, and strong passwords to protect sensitive information.",
+How do smart devices communicate online?,Unknown,"Internet of Things
+
+The Internet of Things (IoT) connects physical devices to the internet. Smart watches, smart TVs, and home automation systems use IoT to collect and exchange data.",
+How do smart devices communicate online?,Unknown,"Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that enables computers
+to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, banking, robotics,
+and many other fields.",
+How do smart devices communicate online?,Unknown,"Cloud Computing
+
+Cloud computing provides computing services such as storage, servers, databases, and software through the internet. It helps users access data and applications from anywhere.",
+How do smart devices communicate online?,Unknown,"Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand and process human languages. It is used in chatbots, language translation, voice assistants, and text analysis.",
+How do smart devices communicate online?,Unknown,"Cyber Security
+
+Cyber security protects computers, networks, and data from digital attacks. It includes encryption, firewalls, antivirus software, and strong passwords to protect sensitive information.",
+How do voice assistants understand our speech?,Unknown,"Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand and process human languages. It is used in chatbots, language translation, voice assistants, and text analysis.",
+How do voice assistants understand our speech?,Unknown,"Deep Learning
+
+Deep Learning is a subset of Machine Learning that uses artificial neural networks. It helps computers recognize images, understand speech, process language, and solve complex problems.",
+How do voice assistants understand our speech?,Unknown,"Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence.
+It allows computers to learn from data and improve their
+performance without being explicitly programmed.
+It is used in prediction, recommendation systems,
+and image recognition.",
+How do voice assistants understand our speech?,Unknown,"Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that enables computers
+to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, banking, robotics,
+and many other fields.",
+How do voice assistants understand our speech?,Unknown,"Python Programming
+
+Python is a popular programming language known for its simple syntax. It is used in web development, data science, artificial intelligence, automation, and machine learning.",
+What software manages large amounts of data?,Unknown,"Database Management System
+
+A Database Management System (DBMS) is software used to store, organize, manage, and retrieve data. Oracle, MySQL, and PostgreSQL are examples of database management systems.",
+What software manages large amounts of data?,Unknown,"Data Science
+
+Data Science is the process of collecting, analyzing, and interpreting data. It uses statistics, programming, and machine learning to discover useful information and support decision-making.",
+What software manages large amounts of data?,Unknown,"Cloud Computing
+
+Cloud computing provides computing services such as storage, servers, databases, and software through the internet. It helps users access data and applications from anywhere.",
+What software manages large amounts of data?,Unknown,"Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand and process human languages. It is used in chatbots, language translation, voice assistants, and text analysis.",
+What software manages large amounts of data?,Unknown,"Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence.
+It allows computers to learn from data and improve their
+performance without being explicitly programmed.
+It is used in prediction, recommendation systems,
+and image recognition.",
+What technology connects smart home devices?,Unknown,"Internet of Things
+
+The Internet of Things (IoT) connects physical devices to the internet. Smart watches, smart TVs, and home automation systems use IoT to collect and exchange data.",
+What technology connects smart home devices?,Unknown,"Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that enables computers
+to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, banking, robotics,
+and many other fields.",
+What technology connects smart home devices?,Unknown,"Cyber Security
+
+Cyber security protects computers, networks, and data from digital attacks. It includes encryption, firewalls, antivirus software, and strong passwords to protect sensitive information.",
+What technology connects smart home devices?,Unknown,"Deep Learning
+
+Deep Learning is a subset of Machine Learning that uses artificial neural networks. It helps computers recognize images, understand speech, process language, and solve complex problems.",
+What technology connects smart home devices?,Unknown,"Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand and process human languages. It is used in chatbots, language translation, voice assistants, and text analysis.",
+What technology is used in medical diagnosis?,Unknown,"Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that enables computers
+to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, banking, robotics,
+and many other fields.",
+What technology is used in medical diagnosis?,Unknown,"Data Science
+
+Data Science is the process of collecting, analyzing, and interpreting data. It uses statistics, programming, and machine learning to discover useful information and support decision-making.",
+What technology is used in medical diagnosis?,Unknown,"Internet of Things
+
+The Internet of Things (IoT) connects physical devices to the internet. Smart watches, smart TVs, and home automation systems use IoT to collect and exchange data.",
+What technology is used in medical diagnosis?,Unknown,"Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand and process human languages. It is used in chatbots, language translation, voice assistants, and text analysis.",
+What technology is used in medical diagnosis?,Unknown,"Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence.
+It allows computers to learn from data and improve their
+performance without being explicitly programmed.
+It is used in prediction, recommendation systems,
+and image recognition.",
+Which programming language is easy for beginners?,Unknown,"Python Programming
+
+Python is a popular programming language known for its simple syntax. It is used in web development, data science, artificial intelligence, automation, and machine learning.",
+Which programming language is easy for beginners?,Unknown,"Natural Language Processing
+
+Natural Language Processing (NLP) is a branch of AI that helps computers understand and process human languages. It is used in chatbots, language translation, voice assistants, and text analysis.",
+Which programming language is easy for beginners?,Unknown,"Data Science
+
+Data Science is the process of collecting, analyzing, and interpreting data. It uses statistics, programming, and machine learning to discover useful information and support decision-making.",
+Which programming language is easy for beginners?,Unknown,"Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that enables computers
+to perform tasks that normally require human intelligence.
+AI is used in healthcare, education, banking, robotics,
+and many other fields.",
+Which programming language is easy for beginners?,Unknown,"Database Management System
+
+A Database Management System (DBMS) is software used to store, organize, manage, and retrieve data. Oracle, MySQL, and PostgreSQL are examples of database management systems.",
+how can computers perform tasks like humans?,document1.txt,,3.0
+how can computers perform tasks like humans?,document2.txt,,2.0
+how can computers perform tasks like humans?,document3.txt,,1.0
+how can computers perform tasks like humans?,document6.txt,,1.0
+how can computers perform tasks like humans?,document8.txt,,1.0
+how can computers recognize pictures?,document1.txt,,1.0
+how can computers recognize pictures?,document2.txt,,1.0
+how can computers recognize pictures?,document3.txt,,2.0
+how can computers recognize pictures?,document6.txt,,1.0
+how can computers recognize pictures?,document8.txt,,1.0
+how can data help in making decisions?,document10.txt,,2.0
+how can data help in making decisions?,document2.txt,,2.0
+how can data help in making decisions?,document3.txt,,2.0
+how can data help in making decisions?,document7.txt,,3.0
+how can data help in making decisions?,document9.txt,,3.0
+how can files be stored using the internet?,document1.txt,,1.0
+how can files be stored using the internet?,document10.txt,,1.0
+how can files be stored using the internet?,document2.txt,,2.0
+how can files be stored using the internet?,document7.txt,,1.0
+how can files be stored using the internet?,document8.txt,,1.0
+how can we protect computers from hackers?,document1.txt,,1.0
+how can we protect computers from hackers?,document2.txt,,2.0
+how can we protect computers from hackers?,document3.txt,,1.0
+how can we protect computers from hackers?,document4.txt,,1.0
+how can we protect computers from hackers?,document8.txt,,3.0
+how can we store and manage information?,document1.txt,,1.0
+how can we store and manage information?,document10.txt,,1.0
+how can we store and manage information?,document2.txt,,1.0
+how can we store and manage information?,document4.txt,,2.0
+how can we store and manage information?,document5.txt,,3.0
+how do computers understand human language?,document1.txt,,2.0
+how do computers understand human language?,document2.txt,,1.0
+how do computers understand human language?,document3.txt,,2.0
+how do computers understand human language?,document6.txt,,3.0
+how do computers understand human language?,document8.txt,,1.0
+how do machines learn from information?,document2.txt,,2.0
+how do machines learn from information?,document3.txt,,1.0
+how do machines learn from information?,document4.txt,,1.0
+how do machines learn from information?,document7.txt,,1.0
+how do machines learn from information?,document8.txt,,1.0
+how do neural networks help computers?,document1.txt,,0.0
+how do neural networks help computers?,document3.txt,,3.0
+how do neural networks help computers?,document6.txt,,1.0
+how do neural networks help computers?,document7.txt,,1.0
+how do neural networks help computers?,document8.txt,,1.0
+how do smart devices communicate online?,document1.txt,,0.0
+how do smart devices communicate online?,document10.txt,,2.0
+how do smart devices communicate online?,document2.txt,,0.0
+how do smart devices communicate online?,document3.txt,,0.0
+how do smart devices communicate online?,document4.txt,,0.0
+how do voice assistants understand our speech?,document1.txt,,0.0
+how do voice assistants understand our speech?,document10.txt,,0.0
+how do voice assistants understand our speech?,document2.txt,,0.0
+how do voice assistants understand our speech?,document3.txt,,1.0
+how do voice assistants understand our speech?,document6.txt,,3.0
+what software manages large amounts of data?,document10.txt,,1.0
+what software manages large amounts of data?,document2.txt,,1.0
+what software manages large amounts of data?,document5.txt,,2.0
+what software manages large amounts of data?,document7.txt,,2.0
+what software manages large amounts of data?,document8.txt,,2.0
+what technology connects smart home devices?,document1.txt,,1.0
+what technology connects smart home devices?,document10.txt,,3.0
+what technology connects smart home devices?,document2.txt,,0.0
+what technology connects smart home devices?,document3.txt,,0.0
+what technology connects smart home devices?,document4.txt,,0.0
+what technology is used in medical diagnosis?,document1.txt,,4.0
+what technology is used in medical diagnosis?,document2.txt,,3.0
+what technology is used in medical diagnosis?,document3.txt,,2.0
+what technology is used in medical diagnosis?,document4.txt,,3.0
+what technology is used in medical diagnosis?,document6.txt,,3.0
+which programming language is easy for beginners?,document1.txt,,2.0
+which programming language is easy for beginners?,document2.txt,,2.0
+which programming language is easy for beginners?,document3.txt,,2.0
+which programming language is easy for beginners?,document4.txt,,4.0
+which programming language is easy for beginners?,document9.txt,,3.0

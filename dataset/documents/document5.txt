@@ -1,0 +1,3 @@
+Database Management System
+
+A Database Management System (DBMS) is software used to store, organize, manage, and retrieve data. Oracle, MySQL, and PostgreSQL are examples of database management systems.

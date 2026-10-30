@@ -1,0 +1,7 @@
+Machine Learning
+
+Machine Learning is a branch of Artificial Intelligence.
+It allows computers to learn from data and improve their
+performance without being explicitly programmed.
+It is used in prediction, recommendation systems,
+and image recognition.
